@@ -1,3 +1,1 @@
-output congr {
-  value = "Hello"
-}
+
