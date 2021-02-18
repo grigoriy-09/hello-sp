@@ -1,3 +1,3 @@
-output congr "{"
+output congr {
   value = "Hello"
-"}"
+}
